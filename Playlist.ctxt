@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Playlist
+comment1.params=title
+comment1.target=Song\ find(java.lang.String)
+comment2.params=song
+comment2.target=void\ push(Song)
+comment3.params=title
+comment3.target=void\ remove(java.lang.String)
+comment4.params=
+comment4.target=void\ reverse()
+comment5.params=
+comment5.target=void\ shuffle()
+comment6.params=
+comment6.target=void\ sortByTitle()
+comment7.params=
+comment7.target=void\ sortByDuration()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
